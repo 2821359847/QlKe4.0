@@ -1,0 +1,9 @@
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\bin\Release\QlKe4.0.exe.config
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\bin\Release\QlKe4.0.exe
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\bin\Release\QlKe4.0.pdb
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4._0.Form1.resources
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4._0.Properties.Resources.resources
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4.0.csproj.GenerateResource.Cache
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4.0.csproj.CoreCompileInputs.cache
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4.0.exe
+C:\Users\LHP\source\repos\QlKe4.0\QlKe4.0\obj\Release\QlKe4.0.pdb
